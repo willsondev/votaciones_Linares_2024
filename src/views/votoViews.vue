@@ -87,7 +87,7 @@ const tipoEleccionSeleccionada = ref('');
 // Cargar datos al montar el componente
 onMounted(async () => {
   try {
-    const response = await fetch('../../public/elecciones.json');
+    const response = await fetch('/elecciones.json');
     if (!response.ok) {
       throw new Error('Error al cargar el archivo JSON');
     }
