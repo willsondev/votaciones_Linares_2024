@@ -7,12 +7,12 @@
     "theme_color": "#ffffff",
     "icons": [
         {
-            "src": "/public/elecciones.webp",
+            "src": "elecciones.webp",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/public/elecciones.webp",
+            "src": "elecciones.webp",
             "sizes": "512x512",
             "type": "image/png"
         }
