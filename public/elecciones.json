@@ -1,0 +1,1934 @@
+[
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "GOBERNADOR REGIONAL",
+        "Territorio  Electoral": "REGIÓN DEL MAULE",
+        "Letra": "F",
+        "NVoto": "1",
+        "Nombre": "FERNANDA",
+        "Primer  Apellido": "AGUIRRE",
+        "Segundo  Apellido": "TORRES",
+        "Pacto/Candidatura Independiente": "PARTIDO SOCIAL CRISTIANO E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "PSC",
+        "Nombre  Partido": "PARTIDO SOCIAL CRISTIANO",
+        "Sexo": "M",
+        "programa" :"https://cacheserverl2.blob.core.windows.net/cdnservel/ProgramasGORE2024%2FGORE07FERNANDA-AGUIRRE-TORRES.pdf",
+        "img": "./img/gobernadores/1.jpg",
+        "partido":"./img/partidos/Partido Social Cristiano.jpeg"
+
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "GOBERNADOR REGIONAL",
+        "Territorio  Electoral": "REGIÓN DEL MAULE",
+        "Letra": "Q",
+        "NVoto": "2",
+        "Nombre": "CRISTINA",
+        "Primer  Apellido": "BRAVO",
+        "Segundo  Apellido": "CASTRO",
+        "Pacto/Candidatura Independiente": "POR UN CHILE MEJOR",
+        "Subpacto": "",
+        "Sigla  Partido": "PDC",
+        "Nombre  Partido": "PARTIDO DEMOCRATA CRISTIANO",
+        "Sexo": "M",
+        "programa": "https://cacheserverl2.blob.core.windows.net/cdnservel/ProgramasGORE2024%2FGORE07CRISTINA-BRAVO-CASTRO.pdf",
+        "img": "./img/gobernadores/2.png",
+        "partido": "./img/partidos/PARTIDO DEMOCRATA CRISTIANO (1).png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "GOBERNADOR REGIONAL",
+        "Territorio  Electoral": "REGIÓN DEL MAULE",
+        "Letra": "X",
+        "NVoto": "3",
+        "Nombre": "GABRIEL",
+        "Primer  Apellido": "ROJAS",
+        "Segundo  Apellido": "ROJAS",
+        "Pacto/Candidatura Independiente": "ECOLOGISTAS, ANIMALISTAS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+        "programa": "https://cacheserverl2.blob.core.windows.net/cdnservel/ProgramasGORE2024%2FGORE07GABRIEL-ROJAS-ROJAS.pdf",
+        "img": "./img/gobernadores/3.png",
+        "partido": "independiente"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "GOBERNADOR REGIONAL",
+        "Territorio  Electoral": "REGIÓN DEL MAULE",
+        "Letra": "Y",
+        "NVoto": "4",
+        "Nombre": "JUAN EDUARDO",
+        "Primer  Apellido": "PRIETO",
+        "Segundo  Apellido": "CORREA",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+        "programa": "https://cacheserverl2.blob.core.windows.net/cdnservel/ProgramasGORE2024%2FGORE07JUANEDUARDO-PRIETO-CORREA.pdf",
+        "img": "./img/gobernadores/4.jpg",
+        "partido": "./img/partidos/independiente"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "GOBERNADOR REGIONAL",
+        "Territorio  Electoral": "REGIÓN DEL MAULE",
+        "Letra": "Z",
+        "NVoto": "5",
+        "Nombre": "PEDRO PABLO",
+        "Primer  Apellido": "ALVAREZ-SALAMANCA",
+        "Segundo  Apellido": "RAMIREZ",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS",
+        "Subpacto": "",
+        "Sigla  Partido": "UDI",
+        "Nombre  Partido": "UNION DEMOCRATA INDEPENDIENTE",
+        "Sexo": "H",
+        "programa": "https://cacheserverl2.blob.core.windows.net/cdnservel/ProgramasGORE2024%2FGORE07PEDROPABLO-ALVAREZ-SALAMANCA-RAMIREZ.pdf",
+        "img": "./img/gobernadores/5.png",
+        "partido": "./img/partidos/udi.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "ALCALDE",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "H",
+        "NVoto": "50",
+        "Nombre": "MICHAEL ERIC CESAR",
+        "Primer  Apellido": "CONCHA",
+        "Segundo  Apellido": "SALVO",
+        "Pacto/Candidatura Independiente": "CONTIGO CHILE MEJOR",
+        "Subpacto": "",
+        "Sigla  Partido": "PS",
+        "Nombre  Partido": "PARTIDO SOCIALISTA DE CHILE",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/alcaldes/alcalde1.jpg",
+        "partido": "./img/partidos/partidosAlcalde/1PARTIDO SOCIALISTA DE CHILE.jpg"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "ALCALDE",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Z",
+        "NVoto": "51",
+        "Nombre": "MARIO",
+        "Primer  Apellido": "MEZA",
+        "Segundo  Apellido": "VASQUEZ",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS",
+        "Subpacto": "",
+        "Sigla  Partido": "RN",
+        "Nombre  Partido": "RENOVACION NACIONAL",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/alcaldes/alcalde2.png",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "ALCALDE",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "",
+        "NVoto": "52",
+        "Nombre": "ROLANDO",
+        "Primer  Apellido": "RENTERIA",
+        "Segundo  Apellido": "MOLLER",
+        "Pacto/Candidatura Independiente": "CANDIDATURA INDEPENDIENTE",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/alcaldes/alcalde3.jpg",
+        "partido": "./img/partidos/partidosAlcalde/3candidaturaindependiente.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "ALCALDE",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "",
+        "NVoto": "53",
+        "Nombre": "FELIPE SEGUNDO",
+        "Primer  Apellido": "GONZALEZ",
+        "Segundo  Apellido": "LOPEZ",
+        "Pacto/Candidatura Independiente": "CANDIDATURA INDEPENDIENTE",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+        "programa": "",
+       "img": "./img/alcaldes/alcalde4.jpg",
+       "partido": "./img/partidos/partidosAlcalde/4independiente.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "ALCALDE",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "",
+        "NVoto": "54",
+        "Nombre": "MYRIAM",
+        "Primer  Apellido": "ALARCON",
+        "Segundo  Apellido": "CASTILLO",
+        "Pacto/Candidatura Independiente": "CANDIDATURA INDEPENDIENTE",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+        "programa": "",
+        "img": "./img/alcaldes/alcalde5.jpg",
+        "partido": "./img/partidos/partidosAlcalde/5independite.png"
+    },
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "A",
+        "NVoto": "250",
+        "Nombre": "CARLOS ALBERTO",
+        "Primer  Apellido": "CASTRO",
+        "Segundo  Apellido": "ROMERO",
+        "Pacto/Candidatura Independiente": "POR CHILE, SEGUIMOS",
+        "Subpacto": "FRENTE AMPLIO E INDEPENDIENTES",
+        "Sigla  Partido": "FA",
+        "Nombre  Partido": "FRENTE AMPLIO",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/1 concejal.jpeg",
+        "partido": "./img/partidos/partidosconcejal/1-4frenteamplio.jpeg"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "A",
+        "NVoto": "251",
+        "Nombre": "MARIA JOSE",
+        "Primer  Apellido": "GOMEZ",
+        "Segundo  Apellido": "CASTILLO",
+        "Pacto/Candidatura Independiente": "POR CHILE, SEGUIMOS",
+        "Subpacto": "FRENTE AMPLIO E INDEPENDIENTES",
+        "Sigla  Partido": "FA",
+        "Nombre  Partido": "FRENTE AMPLIO",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejal/2 concejal.jpeg",
+        "partido": "./img/partidos/partidosconcejal/1-4frenteamplio.jpeg"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "A",
+        "NVoto": "252",
+        "Nombre": "SALVADOR ALDO ESTEBAN",
+        "Primer  Apellido": "CONCHA",
+        "Segundo  Apellido": "AGUILERA",
+        "Pacto/Candidatura Independiente": "POR CHILE, SEGUIMOS",
+        "Subpacto": "FRENTE AMPLIO E INDEPENDIENTES",
+        "Sigla  Partido": "FA",
+        "Nombre  Partido": "FRENTE AMPLIO",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/3 concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/1-4frenteamplio.jpeg"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "A",
+        "NVoto": "253",
+        "Nombre": "FELIPE ANDRES",
+        "Primer  Apellido": "SARAVIA",
+        "Segundo  Apellido": "ARIAS",
+        "Pacto/Candidatura Independiente": "POR CHILE, SEGUIMOS",
+        "Subpacto": "FRENTE AMPLIO E INDEPENDIENTES",
+        "Sigla  Partido": "FA",
+        "Nombre  Partido": "FRENTE AMPLIO",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/4 concejal.jpeg",
+        "partido": "./img/partidos/partidosconcejal/1-4frenteamplio.jpeg"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "A",
+        "NVoto": "254",
+        "Nombre": "LENIN",
+        "Primer  Apellido": "FUENTES",
+        "Segundo  Apellido": "BARROS",
+        "Pacto/Candidatura Independiente": "POR CHILE, SEGUIMOS",
+        "Subpacto": "PARTIDO COMUNISTA DE CHILE E INDEPENDIENTES",
+        "Sigla  Partido": "PCCH",
+        "Nombre  Partido": "PARTIDO COMUNISTA DE CHILE",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/5concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/5-8partidocomunsta.png"
+
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "A",
+        "NVoto": "255",
+        "Nombre": "CESAR ELOY",
+        "Primer  Apellido": "ALEGRIA",
+        "Segundo  Apellido": "CISTERNA",
+        "Pacto/Candidatura Independiente": "POR CHILE, SEGUIMOS",
+        "Subpacto": "PARTIDO COMUNISTA DE CHILE E INDEPENDIENTES",
+        "Sigla  Partido": "PCCH",
+        "Nombre  Partido": "PARTIDO COMUNISTA DE CHILE",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/6concejal.png",
+       "partido": "./img/partidos/partidosconcejal/5-8partidocomunsta.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "A",
+        "NVoto": "256",
+        "Nombre": "BERTA",
+        "Primer  Apellido": "GASCON",
+        "Segundo  Apellido": "CASTRO",
+        "Pacto/Candidatura Independiente": "POR CHILE, SEGUIMOS",
+        "Subpacto": "PARTIDO COMUNISTA DE CHILE E INDEPENDIENTES",
+        "Sigla  Partido": "PCCH",
+        "Nombre  Partido": "PARTIDO COMUNISTA DE CHILE",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejal/7concejal.jpeg",
+        "partido": "./img/partidos/partidosconcejal/5-8partidocomunsta.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "A",
+        "NVoto": "257",
+        "Nombre": "HECTOR HUGO",
+        "Primer  Apellido": "PINCHEIRA",
+        "Segundo  Apellido": "ESPINOZA",
+        "Pacto/Candidatura Independiente": "POR CHILE, SEGUIMOS",
+        "Subpacto": "PARTIDO COMUNISTA DE CHILE E INDEPENDIENTES",
+        "Sigla  Partido": "PCCH",
+        "Nombre  Partido": "PARTIDO COMUNISTA DE CHILE",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/8concejal.png",
+        "partido": "./img/partidos/partidosconcejal/5-8partidocomunsta.png"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "E",
+        "NVoto": "258",
+        "Nombre": "JUAN CARLOS",
+        "Primer  Apellido": "MOYA",
+        "Segundo  Apellido": "CERDA",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI-EVOPOLI E INDEPENDIENTES",
+        "Subpacto": "EVOPOLI - INDEPENDIENTES",
+        "Sigla  Partido": "EVOPOLI",
+        "Nombre  Partido": "EVOLUCION POLITICA",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/9concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/9evopoli.jpeg"
+    },
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "E",
+        "NVoto": "259",
+        "Nombre": "MONICA",
+        "Primer  Apellido": "HENRIQUEZ",
+        "Segundo  Apellido": "HENRIQUEZ",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI-EVOPOLI E INDEPENDIENTES",
+        "Subpacto": "EVOPOLI - INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejal/10concejal.jpg",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "E",
+        "NVoto": "260",
+        "Nombre": "MIGUEL ALBERTO",
+        "Primer  Apellido": "PARADA",
+        "Segundo  Apellido": "CASTRO",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI-EVOPOLI E INDEPENDIENTES",
+        "Subpacto": "EVOPOLI - INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/11concejal.jpg",
+        "partido": ""
+    },
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "E",
+        "NVoto": "261",
+        "Nombre": "CLAUDIO",
+        "Primer  Apellido": "ROSSON",
+        "Segundo  Apellido": "MUÑOZ",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI-EVOPOLI E INDEPENDIENTES",
+        "Subpacto": "UDI - INDEPENDIENTES",
+        "Sigla  Partido": "UDI",
+        "Nombre  Partido": "UNION DEMOCRATA INDEPENDIENTE",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejal/12concejal.png",
+        "partido": "./img/partidos/partidosconcejal/udi.png"
+    },
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "E",
+        "NVoto": "262",
+        "Nombre": "LUCILA",
+        "Primer  Apellido": "CARRASCO",
+        "Segundo  Apellido": "ZENTENO",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI-EVOPOLI E INDEPENDIENTES",
+        "Subpacto": "UDI - INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+        "programa": "",
+        "img": "./img/concejal/13concejal.jpg",
+        "partido": ""
+    },
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "E",
+        "NVoto": "263",
+        "Nombre": "FABIAN",
+        "Primer  Apellido": "RIOS",
+        "Segundo  Apellido": "LARA",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI-EVOPOLI E INDEPENDIENTES",
+        "Subpacto": "UDI - INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejal/14concejal.jpg",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "E",
+        "NVoto": "264",
+        "Nombre": "ALEJANDRA",
+        "Primer  Apellido": "ASTETE",
+        "Segundo  Apellido": "BELMAR",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI-EVOPOLI E INDEPENDIENTES",
+        "Subpacto": "UDI - INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+        "programa": "",
+        "img": "./img/concejal/15concejal.jpg",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "E",
+        "NVoto": "265",
+        "Nombre": "HECTOR",
+        "Primer  Apellido": "HERNANDEZ",
+        "Segundo  Apellido": "BORQUEZ",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI-EVOPOLI E INDEPENDIENTES",
+        "Subpacto": "UDI - INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejal/16concejal.jpg",
+        "partido": ""
+    },
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "F",
+        "NVoto": "266",
+        "Nombre": "ROBERTO",
+        "Primer  Apellido": "ARAVENA",
+        "Segundo  Apellido": "ARAVENA",
+        "Pacto/Candidatura Independiente": "PARTIDO SOCIAL CRISTIANO E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "PSC",
+        "Nombre  Partido": "PARTIDO SOCIAL CRISTIANO",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/17concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/Partido Social Cristiano.jpeg"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "F",
+        "NVoto": "267",
+        "Nombre": "JAVIERA",
+        "Primer  Apellido": "LASTRA",
+        "Segundo  Apellido": "CASTILLO",
+        "Pacto/Candidatura Independiente": "PARTIDO SOCIAL CRISTIANO E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "PSC",
+        "Nombre  Partido": "PARTIDO SOCIAL CRISTIANO",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejal/18concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/Partido Social Cristiano.jpeg"
+    },
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "268",
+        "Nombre": "FAVIO ALEXIS",
+        "Primer  Apellido": "VARGAS",
+        "Segundo  Apellido": "AGUILERA",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACIÓN NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "RN",
+        "Nombre  Partido": "RENOVACION NACIONAL",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/19concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/renovacionnaciona.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "269",
+        "Nombre": "CHRISTIAN SEBASTIAN",
+        "Primer  Apellido": "GONZALEZ",
+        "Segundo  Apellido": "MONSALVE",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACIÓN NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "RN",
+        "Nombre  Partido": "RENOVACION NACIONAL",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/20concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/renovacionnaciona.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "270",
+        "Nombre": "CINTHIA",
+        "Primer  Apellido": "LABRAÑA",
+        "Segundo  Apellido": "VILLALOBOS",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACIÓN NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "RN",
+        "Nombre  Partido": "RENOVACION NACIONAL",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejal/21concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/renovacionnaciona.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "271",
+        "Nombre": "JORGE ERNESTO",
+        "Primer  Apellido": "CUEVAS",
+        "Segundo  Apellido": "ROSSEL",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACIÓN NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "RN",
+        "Nombre  Partido": "RENOVACION NACIONAL",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/22concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/renovacionnaciona.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "272",
+        "Nombre": "PAMELA",
+        "Primer  Apellido": "AVILA",
+        "Segundo  Apellido": "GATICA",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACIÓN NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "RN",
+        "Nombre  Partido": "RENOVACION NACIONAL",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejal/23concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/renovacionnaciona.png"
+    },
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "273",
+        "Nombre": "RODRIGO ALONSO",
+        "Primer  Apellido": "BEALS",
+        "Segundo  Apellido": "CHACON",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACIÓN NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/24concejal.jpg",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "274",
+        "Nombre": "MELANIA ROSA",
+        "Primer  Apellido": "CERDA",
+        "Segundo  Apellido": "MUÑOZ",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACIÓN NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejal/25concejal.jpg",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "275",
+        "Nombre": "LUIS WASHINGTON",
+        "Primer  Apellido": "CONCHA",
+        "Segundo  Apellido": "GUERRERO",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACIÓN NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/26concejal.jpg",
+        "partido": ""
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "R",
+        "NVoto": "276",
+        "Nombre": "MAYER",
+        "Primer  Apellido": "PINCHEIRA",
+        "Segundo  Apellido": "BAHAMONDEZ",
+        "Pacto/Candidatura Independiente": "CENTRO DEMOCRATICO",
+        "Subpacto": "AMARILLOS E INDEPENDIENTES",
+        "Sigla  Partido": "AMARILLOS",
+        "Nombre  Partido": "MOVIMIENTO AMARILLOS POR CHILE",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/27concejal.jpeg",
+        "partido": "./img/partidos/partidosconcejal/amarillos.png"
+    },
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "R",
+        "NVoto": "277",
+        "Nombre": "YUSEF",
+        "Primer  Apellido": "MOURAD",
+        "Segundo  Apellido": "AZMY",
+        "Pacto/Candidatura Independiente": "CENTRO DEMOCRATICO",
+        "Subpacto": "AMARILLOS E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/28concejal.jpg",
+        "partido": ""
+    },
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "R",
+        "NVoto": "278",
+        "Nombre": "CRISTIAN IVAN",
+        "Primer  Apellido": "GOMEZ",
+        "Segundo  Apellido": "MUÑOZ",
+        "Pacto/Candidatura Independiente": "CENTRO DEMOCRATICO",
+        "Subpacto": "DEMOCRATAS E INDEPENDIENTES",
+        "Sigla  Partido": "DEMOCRATAS",
+        "Nombre  Partido": "PARTIDO DEMOCRATAS CHILE",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/29concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/democrataschile.png"
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "R",
+        "NVoto": "279",
+        "Nombre": "MOISES ESTEBAN",
+        "Primer  Apellido": "MORALES",
+        "Segundo  Apellido": "CERDA",
+        "Pacto/Candidatura Independiente": "CENTRO DEMOCRATICO",
+        "Subpacto": "DEMOCRATAS E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/30concejal.jpg",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "R",
+        "NVoto": "280",
+        "Nombre": "MARGARITA JUDITH",
+        "Primer  Apellido": "ARIAS",
+        "Segundo  Apellido": "ASTUDILLO",
+        "Pacto/Candidatura Independiente": "CENTRO DEMOCRATICO",
+        "Subpacto": "DEMOCRATAS E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejal/31concejal.jpg",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "R",
+        "NVoto": "281",
+        "Nombre": "ALEJANDRO",
+        "Primer  Apellido": "GOMEZ",
+        "Segundo  Apellido": "ORELLANA",
+        "Pacto/Candidatura Independiente": "CENTRO DEMOCRATICO",
+        "Subpacto": "DEMOCRATAS E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/32concejal.jpg",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "R",
+        "NVoto": "282",
+        "Nombre": "JOSE FERNANDO",
+        "Primer  Apellido": "ALMONACID",
+        "Segundo  Apellido": "REQUENA",
+        "Pacto/Candidatura Independiente": "CENTRO DEMOCRATICO",
+        "Subpacto": "DEMOCRATAS E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejal/33concejal.jpg",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "R",
+        "NVoto": "283",
+        "Nombre": "MARCELO",
+        "Primer  Apellido": "CAMPOS",
+        "Segundo  Apellido": "VERGARA",
+        "Pacto/Candidatura Independiente": "CENTRO DEMOCRATICO",
+        "Subpacto": "DEMOCRATAS E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejal/34concejal.jpg",
+        "partido": ""
+    },
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "T",
+        "NVoto": "284",
+        "Nombre": "ANDREA FERNANDA",
+        "Primer  Apellido": "YAÑEZ",
+        "Segundo  Apellido": "PINOCHET",
+        "Pacto/Candidatura Independiente": "TU COMUNA RADICAL",
+        "Subpacto": "",
+        "Sigla  Partido": "PR",
+        "Nombre  Partido": "PARTIDO RADICAL DE CHILE",
+        "Sexo": "M",
+        "programa": "",
+        "img": "./img/concejal/35concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/partidoradical.png"
+    },
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "T",
+        "NVoto": "285",
+        "Nombre": "HUBER HERNALDO",
+        "Primer  Apellido": "HIDALGO",
+        "Segundo  Apellido": "VENEGAS",
+        "Pacto/Candidatura Independiente": "TU COMUNA RADICAL",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejal/36concejal.jpg",
+        "partido": ""
+    },
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "U",
+        "NVoto": "286",
+        "Nombre": "MARCO",
+        "Primer  Apellido": "AVILA",
+        "Segundo  Apellido": "VASQUEZ",
+        "Pacto/Candidatura Independiente": "CHILE MUCHO MEJOR",
+        "Subpacto": "PS E INDEPENDIENTES",
+        "Sigla  Partido": "PS",
+        "Nombre  Partido": "PARTIDO SOCIALISTA DE CHILE",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejal/37concejal.jpg",
+        "partido": "./img/partidos/partidosconcejal/1PARTIDO SOCIALISTA DE CHILE.jpg"
+    },
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "U",
+        "NVoto": "287",
+        "Nombre": "PRISCILA",
+        "Primer  Apellido": "URIBE",
+        "Segundo  Apellido": "VILLARREAL",
+        "Pacto/Candidatura Independiente": "CHILE MUCHO MEJOR",
+        "Subpacto": "PS E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+         "programa": "",
+         "img": "./img/concejal/38concejal.jpg",
+         "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "U",
+        "NVoto": "288",
+        "Nombre": "ROBERTO",
+        "Primer  Apellido": "FLORES",
+        "Segundo  Apellido": "LUENGO",
+        "Pacto/Candidatura Independiente": "CHILE MUCHO MEJOR",
+        "Subpacto": "PS E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+         "img": "./img/concejal/39concejal.jpg",
+         "partido": ""
+    },
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "U",
+        "NVoto": "289",
+        "Nombre": "JESUS",
+        "Primer  Apellido": "ROJAS",
+        "Segundo  Apellido": "PEREIRA",
+        "Pacto/Candidatura Independiente": "CHILE MUCHO MEJOR",
+        "Subpacto": "PDC E INDEPENDIENTES",
+        "Sigla  Partido": "PDC",
+        "Nombre  Partido": "PARTIDO DEMOCRATA CRISTIANO",
+        "Sexo": "H",
+         "programa": "",
+         "img": "./img/concejal/40concejal.jpg",
+         "partido": "./img/partidos/partidosconcejal/PARTIDO DEMOCRATA CRISTIANO (1).png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "U",
+        "NVoto": "290",
+        "Nombre": "CARMEN",
+        "Primer  Apellido": "ZUÑIGA",
+        "Segundo  Apellido": "VASQUEZ",
+        "Pacto/Candidatura Independiente": "CHILE MUCHO MEJOR",
+        "Subpacto": "PDC E INDEPENDIENTES",
+        "Sigla  Partido": "PDC",
+        "Nombre  Partido": "PARTIDO DEMOCRATA CRISTIANO",
+        "Sexo": "M",
+         "programa": "",
+         "img": "./img/concejal/41concejal.jpg",
+         "partido": "./img/partidos/partidosconcejal/PARTIDO DEMOCRATA CRISTIANO (1).png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "U",
+        "NVoto": "291",
+        "Nombre": "JUAN CARLOS ALBERTO",
+        "Primer  Apellido": "GUTIERREZ",
+        "Segundo  Apellido": "URIBE",
+        "Pacto/Candidatura Independiente": "CHILE MUCHO MEJOR",
+        "Subpacto": "PDC E INDEPENDIENTES",
+        "Sigla  Partido": "PDC",
+        "Nombre  Partido": "PARTIDO DEMOCRATA CRISTIANO",
+        "Sexo": "H",
+         "programa": "",
+         "img": "./img/concejal/42concejal.jpg",
+         "partido": "./img/partidos/partidosconcejal/PARTIDO DEMOCRATA CRISTIANO (1).png"
+    },
+
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "U",
+        "NVoto": "292",
+        "Nombre": "FRESIA",
+        "Primer  Apellido": "YAÑEZ",
+        "Segundo  Apellido": "YAÑEZ",
+        "Pacto/Candidatura Independiente": "CHILE MUCHO MEJOR",
+        "Subpacto": "PPD E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+         "programa": "",
+         "img": "./img/concejal/43concejal.jpg",
+         "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "U",
+        "NVoto": "293",
+        "Nombre": "EDUARDO ALBERTO",
+        "Primer  Apellido": "IBAÑEZ",
+        "Segundo  Apellido": "NUÑEZ",
+        "Pacto/Candidatura Independiente": "CHILE MUCHO MEJOR",
+        "Subpacto": "PPD E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+         "img": "./img/concejal/44concejal.jpg",
+         "partido": ""
+    },
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "294",
+        "Nombre": "LEANDRO MANUEL",
+        "Primer  Apellido": "ALFARO",
+        "Segundo  Apellido": "VALDES",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "H",
+         "programa": "",
+         "img": "./img/concejal/45concejal.png",
+         "partido": "./img/partidos/partidosconcejal/partidorepublicano.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "295",
+        "Nombre": "ANTONIETA",
+        "Primer  Apellido": "MORALES",
+        "Segundo  Apellido": "DOMINGUEZ",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "M",
+         "programa": "",
+         "img": "./img/concejal/46concejal.jpg",
+         "partido": "./img/partidos/partidosconcejal/partidorepublicano.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "296",
+        "Nombre": "SAUL ANTONIO",
+        "Primer  Apellido": "FERNANDEZ",
+        "Segundo  Apellido": "HERNANDEZ",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "H",
+         "programa": "",
+         "img": "./img/concejal/47concejal.png",
+         "partido": "./img/partidos/partidosconcejal/partidorepublicano.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "297",
+        "Nombre": "GLORIA MARINA",
+        "Primer  Apellido": "BAUER",
+        "Segundo  Apellido": "ARRIETA",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "M",
+        "programa": "",
+        "img": "./img/concejal/48concejal.png",
+        "partido": "./img/partidos/partidosconcejal/partidorepublicano.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "298",
+        "Nombre": "RICHARD MARCELO",
+        "Primer  Apellido": "MORA",
+        "Segundo  Apellido": "VIDAL",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejal/49concejal.png",
+        "partido": "./img/partidos/partidosconcejal/partidorepublicano.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "299",
+        "Nombre": "LUIS FELIPE",
+        "Primer  Apellido": "CONTARDO",
+        "Segundo  Apellido": "PEÑA",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejal/50concejal.png",
+        "partido": "./img/partidos/partidosconcejal/partidorepublicano.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONCEJAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "300",
+        "Nombre": "ROSA GUILLERMINA",
+        "Primer  Apellido": "CATRILEO",
+        "Segundo  Apellido": "ARANEDA",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "M",
+        "programa": "",
+        "img": "./img/concejal/51concejal.png",
+        "partido": "./img/partidos/partidosconcejal/partidorepublicano.png"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "C",
+        "NVoto": "100",
+        "Nombre": "SEBASTIAN",
+        "Primer  Apellido": "RAMIREZ",
+        "Segundo  Apellido": "PASCAL",
+        "Pacto/Candidatura Independiente": "TODAS Y TODOS POR CHILE",
+        "Subpacto": "PARTIDO COMUNISTA E INDEPENDIENTES",
+        "Sigla  Partido": "PCCH",
+        "Nombre  Partido": "PARTIDO COMUNISTA DE CHILE",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejalesRegionales/1.png",
+        "partido":"./img/partidos/concejerosregional/5-8partidocomunsta.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "C",
+        "NVoto": "101",
+        "Nombre": "NATALIA",
+        "Primer  Apellido": "LUCERO",
+        "Segundo  Apellido": "TRIVIÑO",
+        "Pacto/Candidatura Independiente": "TODAS Y TODOS POR CHILE",
+        "Subpacto": "PARTIDO COMUNISTA E INDEPENDIENTES",
+        "Sigla  Partido": "PCCH",
+        "Nombre  Partido": "PARTIDO COMUNISTA DE CHILE",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejalesRegionales/2.png",
+        "partido": "./img/partidos/concejerosregional/5-8partidocomunsta.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "C",
+        "NVoto": "102",
+        "Nombre": "CYNTIA",
+        "Primer  Apellido": "LECAROS",
+        "Segundo  Apellido": "VILLARROEL",
+        "Pacto/Candidatura Independiente": "TODAS Y TODOS POR CHILE",
+        "Subpacto": "PARTIDO COMUNISTA E INDEPENDIENTES",
+        "Sigla  Partido": "PCCH",
+        "Nombre  Partido": "PARTIDO COMUNISTA DE CHILE",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejalesRegionales/3.jpg",
+        "partido": "./img/partidos/concejerosregional/5-8partidocomunsta.png"
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "C",
+        "NVoto": "103",
+        "Nombre": "MARIA ISABEL",
+        "Primer  Apellido": "JORQUERA",
+        "Segundo  Apellido": "CACERES",
+        "Pacto/Candidatura Independiente": "TODAS Y TODOS POR CHILE",
+        "Subpacto": "PARTIDO COMUNISTA E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejalesRegionales/4.jpg",
+        "partido":""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "C",
+        "NVoto": "104",
+        "Nombre": "JONATHAN",
+        "Primer  Apellido": "ALFARO",
+        "Segundo  Apellido": "TORRES",
+        "Pacto/Candidatura Independiente": "TODAS Y TODOS POR CHILE",
+        "Subpacto": "PARTIDO COMUNISTA E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/5.png",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "F",
+        "NVoto": "105",
+        "Nombre": "FILEMON EDUARDO",
+        "Primer  Apellido": "FUENTES",
+        "Segundo  Apellido": "HENRIQUEZ",
+        "Pacto/Candidatura Independiente": "PARTIDO SOCIAL CRISTIANO E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/6.png",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "F",
+        "NVoto": "106",
+        "Nombre": "ANGIE",
+        "Primer  Apellido": "VILLA",
+        "Segundo  Apellido": "CERDA",
+        "Pacto/Candidatura Independiente": "PARTIDO SOCIAL CRISTIANO E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejalesRegionales/7.jpg",
+        "partido": ""
+    },
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "107",
+        "Nombre": "CECILIA",
+        "Primer  Apellido": "PARHAM",
+        "Segundo  Apellido": "MUCARQUER",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACION NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "RN",
+        "Nombre  Partido": "RENOVACION NACIONAL",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejalesRegionales/8.jpg",
+        "partido": "./img/partidos/concejerosregional/renovacionnaciona.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "108",
+        "Nombre": "FRANCISCO",
+        "Primer  Apellido": "DURAN",
+        "Segundo  Apellido": "RAMIREZ",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACION NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "RN",
+        "Nombre  Partido": "RENOVACION NACIONAL",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/9.jpg",
+        "partido": "./img/partidos/concejerosregional/renovacionnaciona.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "109",
+        "Nombre": "JUAN",
+        "Primer  Apellido": "NAVARRO",
+        "Segundo  Apellido": "ORMEÑO",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACION NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "RN",
+        "Nombre  Partido": "RENOVACION NACIONAL",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/10.jpg",
+        "partido": "./img/partidos/concejerosregional/renovacionnaciona.png"
+    },
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "110",
+        "Nombre": "ALVARO",
+        "Primer  Apellido": "SEGUEL",
+        "Segundo  Apellido": "VALDES",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACION NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/11.jpg",
+        "partido":""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "I",
+        "NVoto": "111",
+        "Nombre": "ALBERTO",
+        "Primer  Apellido": "BRIONES",
+        "Segundo  Apellido": "PEREZ",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS RENOVACION NACIONAL - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/12.jpg",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "N",
+        "NVoto": "112",
+        "Nombre": "FRANCISCO JAVIER",
+        "Primer  Apellido": "AZOCAR",
+        "Segundo  Apellido": "ZUBICUETA",
+        "Pacto/Candidatura Independiente": "LO MEJOR PARA CHILE",
+        "Subpacto": "PS E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/13.png",
+        "partido": ""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "N",
+        "NVoto": "113",
+        "Nombre": "ADELA ROSA DEL CARMEN",
+        "Primer  Apellido": "ZUÑIGA",
+        "Segundo  Apellido": "IBAÑEZ",
+        "Pacto/Candidatura Independiente": "LO MEJOR PARA CHILE",
+        "Subpacto": "PS E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejalesRegionales/14.jpg",
+        "partido": ""
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "N",
+        "NVoto": "114",
+        "Nombre": "RICARDO ANTONIO",
+        "Primer  Apellido": "LIZAMA",
+        "Segundo  Apellido": "SOTO",
+        "Pacto/Candidatura Independiente": "LO MEJOR PARA CHILE",
+        "Subpacto": "PPD E INDEPENDIENTES",
+        "Sigla  Partido": "PPD",
+        "Nombre  Partido": "PARTIDO POR LA DEMOCRACIA",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/15.jpg",
+        "partido":"./img/partidos/concejerosregional/ppd.png"
+    },
+
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "N",
+        "NVoto": "115",
+        "Nombre": "CARLOS ANDRES",
+        "Primer  Apellido": "GAJARDO",
+        "Segundo  Apellido": "YAÑEZ",
+        "Pacto/Candidatura Independiente": "LO MEJOR PARA CHILE",
+        "Subpacto": "PPD E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/16.jpg",
+        "partido":""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "N",
+        "NVoto": "116",
+        "Nombre": "PABLO EDUARDO",
+        "Primer  Apellido": "GUTIERREZ",
+        "Segundo  Apellido": "PAREJA",
+        "Pacto/Candidatura Independiente": "LO MEJOR PARA CHILE",
+        "Subpacto": "PPD E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/17.jpeg",
+        "partido": ""
+    },
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "P",
+        "NVoto": "117",
+        "Nombre": "CARLOS",
+        "Primer  Apellido": "BASCUÑAN",
+        "Segundo  Apellido": "TAPIA",
+        "Pacto/Candidatura Independiente": "PARTIDO DE LA GENTE E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "PDG",
+        "Nombre  Partido": "PARTIDO DE LA GENTE",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/18.png",
+        "partido":"./img/partidos/concejerosregional/partidodelagente.jpeg"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "P",
+        "NVoto": "118",
+        "Nombre": "DANIELA",
+        "Primer  Apellido": "OLGUIN",
+        "Segundo  Apellido": "ANDRADE",
+        "Pacto/Candidatura Independiente": "PARTIDO DE LA GENTE E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "PDG",
+        "Nombre  Partido": "PARTIDO DE LA GENTE",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejalesRegionales/19.jpg",
+        "partido": "./img/partidos/concejerosregional/partidodelagente.jpeg"
+    },
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Q",
+        "NVoto": "119",
+        "Nombre": "ALEJANDRO",
+        "Primer  Apellido": "ARAYA",
+        "Segundo  Apellido": "VALDES",
+        "Pacto/Candidatura Independiente": "POR UN CHILE MEJOR",
+        "Subpacto": "",
+        "Sigla  Partido": "PDC",
+        "Nombre  Partido": "PARTIDO DEMOCRATA CRISTIANO",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/20.jpeg",
+        "partido":"./img/partidos/concejerosregional/PARTIDO DEMOCRATA CRISTIANO (1).png"
+    },
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "R",
+        "NVoto": "120",
+        "Nombre": "FLAVIO ESTEBAN",
+        "Primer  Apellido": "BAZZI",
+        "Segundo  Apellido": "PEZOA",
+        "Pacto/Candidatura Independiente": "CENTRO DEMOCRATICO",
+        "Subpacto": "DEMOCRATAS E INDEPENDIENTES",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/21.jpeg",
+        "partido":""
+    },
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "S",
+        "NVoto": "121",
+        "Nombre": "KARINA ANTONIETA",
+        "Primer  Apellido": "CARTAGENA",
+        "Segundo  Apellido": "BASTIAS",
+        "Pacto/Candidatura Independiente": "FRENTE AMPLIO",
+        "Subpacto": "FRENTE AMPLIO E INDEPENDIENTES",
+        "Sigla  Partido": "FA",
+        "Nombre  Partido": "FRENTE AMPLIO",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejalesRegionales/22.png",
+        "partido":"./img/partidos/concejerosregional/1-4frenteamplio.jpeg"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "S",
+        "NVoto": "122",
+        "Nombre": "IGNACIO GABRIEL",
+        "Primer  Apellido": "SALAS",
+        "Segundo  Apellido": "SANDOVAL",
+        "Pacto/Candidatura Independiente": "FRENTE AMPLIO",
+        "Subpacto": "FRENTE AMPLIO E INDEPENDIENTES",
+        "Sigla  Partido": "FA",
+        "Nombre  Partido": "FRENTE AMPLIO",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/23.png",
+        "partido": "./img/partidos/concejerosregional/1-4frenteamplio.jpeg"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "S",
+        "NVoto": "123",
+        "Nombre": "MATIAS ALONSO",
+        "Primer  Apellido": "MUÑOZ",
+        "Segundo  Apellido": "MEJIAS",
+        "Pacto/Candidatura Independiente": "FRENTE AMPLIO",
+        "Subpacto": "FRENTE AMPLIO E INDEPENDIENTES",
+        "Sigla  Partido": "FA",
+        "Nombre  Partido": "FRENTE AMPLIO",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/24.jpeg",
+        "partido": "./img/partidos/concejerosregional/1-4frenteamplio.jpeg"
+    },
+
+
+
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "V",
+        "NVoto": "124",
+        "Nombre": "ALAMIRO",
+        "Primer  Apellido": "GARRIDO",
+        "Segundo  Apellido": "CACERES",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "UDI",
+        "Nombre  Partido": "UNION DEMOCRATA INDEPENDIENTE",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/25.jpg",
+        "partido":"./img/partidos/concejerosregional/udi.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "V",
+        "NVoto": "125",
+        "Nombre": "ALEJANDRA",
+        "Primer  Apellido": "HARRISON",
+        "Segundo  Apellido": "SANDOVAL",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "UDI",
+        "Nombre  Partido": "UNION DEMOCRATA INDEPENDIENTE",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejalesRegionales/26.jpg",
+        "partido": "./img/partidos/concejerosregional/udi.png"
+    },
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "V",
+        "NVoto": "126",
+        "Nombre": "PATRICIA",
+        "Primer  Apellido": "LABRA",
+        "Segundo  Apellido": "BESSERER",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "M",
+         "programa": "",
+        "img": "./img/concejalesRegionales/27.jpeg",
+        "partido":""
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "V",
+        "NVoto": "127",
+        "Nombre": "ISMAEL",
+        "Primer  Apellido": "FUENTES",
+        "Segundo  Apellido": "CASTRO",
+        "Pacto/Candidatura Independiente": "CHILE VAMOS UDI - INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "IND",
+        "Nombre  Partido": "INDEPENDIENTES",
+        "Sexo": "H",
+         "programa": "",
+        "img": "./img/concejalesRegionales/28.jpeg",
+        "partido":""
+    },
+
+
+
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "128",
+        "Nombre": "JUAN CARLOS",
+        "Primer  Apellido": "VALENZUELA",
+        "Segundo  Apellido": "SOTO",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejalesRegionales/29.jpeg",
+        "partido":"./img/partidos/concejerosregional/partidorepublicano.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "129",
+        "Nombre": "ANA LUISA",
+        "Primer  Apellido": "FUENTES",
+        "Segundo  Apellido": "ROCO",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "M",
+        "programa": "",
+        "img": "./img/concejalesRegionales/30.jpg",
+        "partido": "./img/partidos/concejerosregional/partidorepublicano.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "130",
+        "Nombre": "ANAIS SORAYA",
+        "Primer  Apellido": "ORELLANA",
+        "Segundo  Apellido": "RIQUELME",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "M",
+        "programa": "",
+        "img": "./img/concejalesRegionales/31.png",
+        "partido": "./img/partidos/concejerosregional/partidorepublicano.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "131",
+        "Nombre": "JUAN SEBASTIAN",
+        "Primer  Apellido": "MUÑOZ",
+        "Segundo  Apellido": "MUÑOZ",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejalesRegionales/32.png",
+        "partido": "./img/partidos/concejerosregional/partidorepublicano.png"
+    },
+    {
+        "Región": "REGIÓN DEL MAULE",
+        "Tipo  Eleccion": "CONSEJERO REGIONAL",
+        "Territorio  Electoral": "LINARES",
+        "Letra": "Y",
+        "NVoto": "132",
+        "Nombre": "JUAN PABLO",
+        "Primer  Apellido": "URRA",
+        "Segundo  Apellido": "MUÑOZ",
+        "Pacto/Candidatura Independiente": "REPUBLICANOS E INDEPENDIENTES",
+        "Subpacto": "",
+        "Sigla  Partido": "REPUBLICANO",
+        "Nombre  Partido": "PARTIDO REPUBLICANO DE CHILE",
+        "Sexo": "H",
+        "programa": "",
+        "img": "./img/concejalesRegionales/33.png",
+        "partido": "./img/partidos/concejerosregional/partidorepublicano.png"
+    }
+]
